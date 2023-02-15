@@ -1,0 +1,11 @@
+C:\Users\korisnik\Documents\WindowsForms15-2\WindowsForms15-2\bin\Debug\WindowsForms15-2.exe.config
+C:\Users\korisnik\Documents\WindowsForms15-2\WindowsForms15-2\bin\Debug\WindowsForms15-2.exe
+C:\Users\korisnik\Documents\WindowsForms15-2\WindowsForms15-2\bin\Debug\WindowsForms15-2.pdb
+C:\Users\korisnik\Documents\WindowsForms15-2\WindowsForms15-2\obj\Debug\WindowsForms15-2.csproj.AssemblyReference.cache
+C:\Users\korisnik\Documents\WindowsForms15-2\WindowsForms15-2\obj\Debug\WindowsForms15-2.csproj.SuggestedBindingRedirects.cache
+C:\Users\korisnik\Documents\WindowsForms15-2\WindowsForms15-2\obj\Debug\WindowsForms15_2.Form1.resources
+C:\Users\korisnik\Documents\WindowsForms15-2\WindowsForms15-2\obj\Debug\WindowsForms15_2.Properties.Resources.resources
+C:\Users\korisnik\Documents\WindowsForms15-2\WindowsForms15-2\obj\Debug\WindowsForms15-2.csproj.GenerateResource.cache
+C:\Users\korisnik\Documents\WindowsForms15-2\WindowsForms15-2\obj\Debug\WindowsForms15-2.csproj.CoreCompileInputs.cache
+C:\Users\korisnik\Documents\WindowsForms15-2\WindowsForms15-2\obj\Debug\WindowsForms15-2.exe
+C:\Users\korisnik\Documents\WindowsForms15-2\WindowsForms15-2\obj\Debug\WindowsForms15-2.pdb
